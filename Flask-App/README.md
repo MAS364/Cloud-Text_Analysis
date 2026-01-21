@@ -69,3 +69,21 @@ Cloud-text-analysis/
 ├─ lambda/
 │  └─ lambda_function.py
 └─ README.md
+
+```
+
+
+### Running on AWS (Cloud Deployment)
+
+In the deployed environment, the Flask web application runs on an Amazon EC2 instance, while all core processing components remain serverless and managed by AWS.
+
+When running on AWS:
+- The Flask application is hosted on an EC2 instance
+- Uploaded files are stored in an Amazon S3 input bucket
+- API Gateway exposes an HTTP endpoint
+- AWS Lambda performs the text analysis and returns results
+- The Flask application displays the results to the user
+
+To access the application when deployed on EC2, open a browser and navigate to:
+```text
+http://<EC2_PUBLIC_IP>:8080
