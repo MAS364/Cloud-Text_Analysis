@@ -87,6 +87,7 @@ When running on AWS:
 To access the application when deployed on EC2, open a browser and navigate to:
 ```text
 http://<EC2_PUBLIC_IP>:8080
+```
 
 ### Single-File Processing
 <img width="1292" height="641" alt="Screenshot 2026-01-21 at 21 04 42" src="https://github.com/user-attachments/assets/31aa69dd-d65c-432d-a77c-ea425b87b057" />
