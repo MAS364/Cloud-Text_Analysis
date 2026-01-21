@@ -87,3 +87,19 @@ When running on AWS:
 To access the application when deployed on EC2, open a browser and navigate to:
 ```text
 http://<EC2_PUBLIC_IP>:8080
+
+### Single-File Processing
+<img width="1292" height="641" alt="Screenshot 2026-01-21 at 21 04 42" src="https://github.com/user-attachments/assets/31aa69dd-d65c-432d-a77c-ea425b87b057" />
+<img width="1184" height="744" alt="Screenshot 2026-01-21 at 21 05 00" src="https://github.com/user-attachments/assets/245f33f0-a08c-464a-8c58-f7bcf0c04533" />
+<img width="1062" height="612" alt="Screenshot 2026-01-21 at 21 05 21" src="https://github.com/user-attachments/assets/0b613e46-b5fd-4778-a270-8fdcce2cff4a" />
+
+### Multi-File Processing
+<img width="1160" height="705" alt="Screenshot 2026-01-21 at 21 06 56" src="https://github.com/user-attachments/assets/45d8ebde-9788-4a83-b800-b43ebfe6cf7f" />
+<img width="1245" height="626" alt="Screenshot 2026-01-21 at 21 07 17" src="https://github.com/user-attachments/assets/88090eb2-8873-4c14-a1df-5429b7ce0145" />
+<img width="1130" height="484" alt="Screenshot 2026-01-21 at 21 07 31" src="https://github.com/user-attachments/assets/c6a29afc-de1a-4faa-91fb-f0fc8443649d" />
+
+
+
+
+
+
