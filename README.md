@@ -64,9 +64,13 @@ http://<EC2_PUBLIC_IP>:8080
 - Parallel processing significantly improved throughput
 
 
-<img width="1083" height="567" alt="Screenshot 2026-06-08 at 01 34 33" src="https://github.com/user-attachments/assets/c8498f6f-7896-4d29-83bd-d3e9e882bdc9" />
+
+<img width="1054" height="670" alt="Screenshot 2026-06-08 at 01 38 15" src="https://github.com/user-attachments/assets/883a019a-6699-4973-9be4-549a76e040f2" />
+
 <img width="1164" height="735" alt="Screenshot 2026-06-08 at 01 35 35" src="https://github.com/user-attachments/assets/bbe1e98b-fe70-4f03-ad0e-efd89b42c6f9" />
 <img width="1093" height="719" alt="Screenshot 2026-06-08 at 01 36 16" src="https://github.com/user-attachments/assets/504243d4-8706-4b1f-87b6-313eebd981f7" />
+<img width="1123" height="478" alt="Screenshot 2026-06-08 at 01 38 55" src="https://github.com/user-attachments/assets/8497e2da-8a3f-43d7-968f-ed950fb40553" />
+<img width="1162" height="609" alt="Screenshot 2026-06-08 at 01 39 20" src="https://github.com/user-attachments/assets/645ffd43-2234-475e-b2f1-4dbee916333a" />
 
 
 
