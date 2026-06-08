@@ -1,3 +1,4 @@
+
 # ☁️ AWS Cloud Text Analysis (Serverless NLP Pipeline)
 
 ## 📌 Problem
@@ -60,7 +61,16 @@ http://<EC2_PUBLIC_IP>:8080
 - Successfully processed single and batch file uploads  
 - Near real-time text analytics using serverless execution  
 - Scalable architecture with automatic AWS resource scaling  
-- Parallel processing significantly improved throughput  
+- Parallel processing significantly improved throughput
+
+
+<img width="1083" height="567" alt="Screenshot 2026-06-08 at 01 34 33" src="https://github.com/user-attachments/assets/c8498f6f-7896-4d29-83bd-d3e9e882bdc9" />
+<img width="1164" height="735" alt="Screenshot 2026-06-08 at 01 35 35" src="https://github.com/user-attachments/assets/bbe1e98b-fe70-4f03-ad0e-efd89b42c6f9" />
+<img width="1093" height="719" alt="Screenshot 2026-06-08 at 01 36 16" src="https://github.com/user-attachments/assets/504243d4-8706-4b1f-87b6-313eebd981f7" />
+
+
+
+
 
 ---
 
